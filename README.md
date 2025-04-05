@@ -2,7 +2,6 @@
 - 👀 I’m interested in Modern/Dynamic Frontend Development and New Frontend Technologies
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Modern Landing Pages
-- 📫 I am available on instagram - @akshtiwari__
 - 📫 I am also available on X - @akshprooo
 - 📫 How can i forget Discord - @akshprooo
 - 😄 Pronouns: He/Him
