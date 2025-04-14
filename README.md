@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Modern Landing Pages
 - 📫 I am also available on X - @akshprooo
+- 📫 Also available on Instagram as: @akshprooo.in (i swear it is not a website, it is just an username)
 - 📫 How can i forget Discord - @akshprooo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: React is a Library
