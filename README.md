@@ -45,7 +45,7 @@
 
 - 📧 Email: `akshprooo@gmail.com`
 - 🧠 Projects: [github.com/akshprooo](https://github.com/akshprooo)
-- 🛠️ Portfolio: *(Coming Soon)*
+- 🛠️ Portfolio: [akshprooo.vercel.app](https://akshprooo.vercel.app)
 
 ---
 
