@@ -11,8 +11,7 @@
 - 🛠️ Working with **HTML, CSS, JS, React, TailwindCSS, GSAP, Framer Motion**
 - 📦 Building beautiful UIs with animations, 3D touches & logic.
 - 💻 Currently working on:
-  - My **Portfolio Website** (Vanilla + GSAP)
-  - A fun **Docs UI** drag project (React + motion)
+  - A Minimal **OS Like** environment made in python named 'PyOS'.
 - 🔐 Learning **DSA** and **Backend (soon)** to become a Full Stack Developer.
 - 🧠 I love solving design puzzles and logical problems.
 
@@ -27,6 +26,9 @@
 | Creator Payment Tracker | React + Context | Track payments across creators and clients |
 | Bug Tracker App | React + Context + Role-Based Auth | Manage bugs, role-based views, and localStorage auth persistence |
 | Trivia App | React + Context | Quiz app with logic-based scoring and state management |
+|[PyBoot](https://github.com/akshprooo/PyBoot) | Python | A Minimal Bootloader kinda thing |
+|[PyOS](https://github.com/akshprooo/PyOS) | Python | A Minimal OS-Like Environment |
+|[BetterFileHandling](https://pypi.org/project/BetterFileHandling/) | Python | A Minimal Python Package for File Management |
 
 > More on [my GitHub repositories »](https://github.com/akshprooo)
 
@@ -43,9 +45,11 @@
 
 ### 📬 Connect With Me
 
-- 📧 Email: `akshprooo@gmail.com`
-- 🧠 Projects: [github.com/akshprooo](https://github.com/akshprooo)
-- 🛠️ Portfolio: [akshprooo.vercel.app](https://akshprooo.vercel.app)
+- Email: [akshprooo@gmail.com](mailto:akshprooo@gmail.com)
+- Projects: [github.com/akshprooo](https://github.com/akshprooo)
+- Instagram: [instagram.com/akshprooo.in](https://instagram.com/akshprooo.in)
+- Discord: @akshprooo
+- Portfolio: [akshprooo.vercel.app](https://akshprooo.vercel.app)
 
 ---
 
