@@ -44,7 +44,7 @@
 
 - Email: [akshprooo@gmail.com](mailto:akshprooo@gmail.com)  
 - GitHub: [github.com/akshprooo](https://github.com/akshprooo)  
-- Instagram: [instagram.com/akshprooo.in](https://instagram.com/akshprooo.in)  
+- Instagram: [instagram.com/akshprooo.in](https://instagram.com/akshtiwari__)  
 - Discord: akshprooo  
 - Portfolio: [akshprooo.vercel.app](https://akshprooo.vercel.app)
 
