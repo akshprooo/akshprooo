@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Aksh Tiwari</h1>
 <p align="center">
-  A 14-year-old software enthusiast from Delhi, India. Interested in building thoughtful interfaces, exploring systems-level software, and understanding how things work under the hood.
+  A 15-year-old software enthusiast from Delhi, India. Interested in building thoughtful interfaces, exploring systems-level software, and understanding how things work under the hood.
 </p>
 
 ---
